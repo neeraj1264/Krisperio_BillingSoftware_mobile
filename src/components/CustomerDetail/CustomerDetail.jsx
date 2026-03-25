@@ -445,10 +445,10 @@ const CustomerDetail = () => {
       >
         <img src="/logo.jpg" alt="Logo" className="logo" />
         <h1 style={{ textAlign: "center", margin: 0, fontSize: "35px" }}>
-          Chicago Delight's
+          Krisperio
         </h1>
         <p style={{ textAlign: "center", margin: 0, fontSize: "15px" }}>
-          Oppsite Swarag Agency Kurukshetra <br /> Road Pehowa(136-128) <br /> 9896642812 <br /> 90340-62812
+          Ambala Hisar Road, Malakpur <br /> 74049-60488
         </p>
         <hr />
         <h2 style={{ textAlign: "center", margin: 0, fontSize: "20px" }}>
